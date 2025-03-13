@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ **Zoho Tech Stack**  
-1. **Zoho Creator**: Core app for carbon data collection & calculations.  
+1. **Zoho Creator**: Core app for carbon data collection & calculations.   
 2. **Zoho Analytics**: Real-time dashboards for emissions KPIs.  
 3. **Zoho CRM**: Customer engagement & offset program management.  
 4. **Zoho Projects**: Agile workflows for implementation.  
